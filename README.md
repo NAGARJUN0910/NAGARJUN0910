@@ -6,8 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **FlipZone (E-Commerce App)** and **Quiz Application**  
-- 🌱 Learning **Spring Boot, React, and Cloud Deployment**  
+- 🎓 2025 Graduate in Computer Science Engineering  
+- ✅ Completed projects: **FlipZone (E-Commerce App)** and **Quiz Application**  
+- 🌱 Continuously learning **Spring Boot, React, and Cloud Deployment**  
+- 💼 Actively looking for an **entry-level Software Developer role**  
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 💡 Passionate about solving problems and building scalable web applications  
 - ⚡ Fun fact: I enjoy debugging as much as coding!  
