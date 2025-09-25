@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/nagarjun-b-n-909b69290)  
-- 🐙 [GitHub](https://github.com/NAGARJUN0910)  
+- 💼 (www.linkedin.com/in/nagarjun-b-n-909b69290)  
+- 🐙 (https://github.com/NAGARJUN0910)  
 - 📧 Email: nagarjun0910@gmail.com  
 
 ---
